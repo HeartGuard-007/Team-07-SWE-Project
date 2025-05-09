@@ -1,4 +1,4 @@
-# 🧠 Stroke Risk Prediction System — Team HealthGuard
+# 🧠 Stroke Risk Prediction System — Team HeartGuard
 
 ## 🔍 Project Overview
 
