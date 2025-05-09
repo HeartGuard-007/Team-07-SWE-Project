@@ -17,6 +17,9 @@ Stroke Risk Prediction System is a full-stack web application designed to assess
 
 ---
 
+### Running Locally - https://mahindraecolecentrale-my.sharepoint.com/:v:/g/personal/se22ucse074_mahindrauniversity_edu_in/EVbOFLKbwcFPlGiRl5pYSuUBZCYmDuVoS9c8sH6fpFs4BA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AgV4NV
+
+
 ## 🔮 Future Enhancements
 
 While the core features are complete, the following enhancements are planned for future versions:
