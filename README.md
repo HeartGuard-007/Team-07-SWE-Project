@@ -17,12 +17,12 @@ Stroke Risk Prediction System is a full-stack web application designed to assess
 
 ---
 
-### Demo video link- 
-- https://mahindraecolecentrale-my.sharepoint.com/personal/se22ucse074_mahindrauniversity_edu_in/_layouts/15/stream.aspx?id=%2Fpersonal%2Fse22ucse074%5Fmahindrauniversity%5Fedu%5Fin%2FDocuments%2FHeartGuard%5FTeam7%2FDemo%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E099aa4e3%2D20bd%2D4d26%2D98a8%2Da1a929768aef
+### Demo Video Link
+https://mahindraecolecentrale-my.sharepoint.com/personal/se22ucse074_mahindrauniversity_edu_in/_layouts/15/stream.aspx?id=%2Fpersonal%2Fse22ucse074%5Fmahindrauniversity%5Fedu%5Fin%2FDocuments%2FHeartGuard%5FTeam7%2FDemo%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E099aa4e3%2D20bd%2D4d26%2D98a8%2Da1a929768aef
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 While the core features are complete, the following enhancements are planned for future versions:
 
