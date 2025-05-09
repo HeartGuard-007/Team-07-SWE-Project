@@ -35,10 +35,7 @@ While the core features are complete, the following enhancements are planned for
 
 - **Cloud Deployment**  
   Deploy the application on cloud platforms like Heroku or AWS for remote access.
-
-- **Admin Dashboard**  
-  Provide admin tools to manage users, feedback, and view analytics.
-
+  
 ---
 
 ## 🚀 Deployment / Running the Project Locally
