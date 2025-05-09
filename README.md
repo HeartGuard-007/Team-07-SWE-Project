@@ -17,6 +17,30 @@ Stroke Risk Prediction System is a full-stack web application designed to assess
 
 ---
 
+## 🔮 Future Enhancements
+
+While the core features are complete, the following enhancements are planned for future versions:
+
+- **Personalized Health Recommendations**  
+  Suggest lifestyle changes or tips based on user data and risk level.
+
+- **Doctor Review & Feedback Module**  
+  Allow medical professionals to review user history and offer insights.
+
+- **Notifications & Alerts**  
+  Notify users of high-risk results or prompt them for periodic re-evaluation.
+
+- **Multi-Language Support**  
+  Add localization to make the platform accessible to users in different regions.
+
+- **Cloud Deployment**  
+  Deploy the application on cloud platforms like Heroku or AWS for remote access.
+
+- **Admin Dashboard**  
+  Provide admin tools to manage users, feedback, and view analytics.
+
+---
+
 ## 🚀 Deployment / Running the Project Locally
 
 ### Running Locally
