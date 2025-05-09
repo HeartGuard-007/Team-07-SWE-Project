@@ -2,7 +2,7 @@
 
 ## 🔍 Project Overview
 
-This web application predicts the risk of stroke based on user-provided health information. It uses a trained machine learning model (Random Forest Classifier) integrated into a Django backend. Users log in with OTP-based authentication, enter health data, and receive a personalized stroke risk prediction. Results are saved and visualized over time.
+Stroke Risk Prediction System is a full-stack web application designed to assess a user’s risk of stroke based on their medical and lifestyle inputs. Built with Django and powered by a trained machine learning model, the system provides real-time stroke risk predictions and visualizes historical trends. Users register and log in securely using OTP-based authentication, submit health data through a dynamic form, and receive a categorized risk assessment (Low, Moderate, or High). The platform emphasizes usability, security, and preventive healthcare awareness.
 
 ---
 
