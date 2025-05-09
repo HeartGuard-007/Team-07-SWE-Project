@@ -1,4 +1,4 @@
-# 🧠 Stroke Risk Prediction System — Team HeartGuard
+# Stroke Risk Prediction System — Team HeartGuard
 
 ## 🔍 Project Overview
 
@@ -19,7 +19,7 @@ This web application predicts the risk of stroke based on user-provided health i
 
 ## 🚀 Deployment / Running the Project Locally
 
-### ✅ Option 1: Run Locally
+### Running Locally
 
 #### Prerequisites
 - Python 3.8+
